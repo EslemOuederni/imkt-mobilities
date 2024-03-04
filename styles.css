@@ -1,0 +1,21 @@
+#map { height: 100vh; }
+.my-custom-icon{
+    color: #fff !important;
+    border-radius: 50%;
+    background-color: rgba(218, 30, 72, 0.6) !important;
+    width: 60px !important;
+    height: 60px !important;
+}
+.my-custom-icon div{
+    width: 45px;
+    height: 45px;
+    text-align: center;
+    border-radius: 50%;
+    background-color: #da1f49;
+    margin: 7px;
+}
+
+.my-custom-icon div span{
+    line-height: 50px;
+    font-weight: bold;
+}
